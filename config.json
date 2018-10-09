@@ -1,0 +1,39 @@
+{
+    "nome": "Qual é o seu pedido? - Língua Portuguesa",
+    "academico":{
+        "curso": "GUIA DE ORIENTAÇÕES DIDÁTICAS",
+        "cursoIcone": "layout/icones/.svg",
+        "disciplina":"GUIA DE ORIENTAÇÕES DIDÁTICAS",
+        "responsavel": "Projeto MIDE"
+    },
+    "topicos": [        
+        {
+            "nome": "Aprensentação",
+            "local": "topicos/apresentacao.html",
+            "audio": "audios/Abstract - I Do This (ft. Roze) Prod By Drumma Battalion.mp3",
+            "default": true
+        },
+        {
+            "nome": "Introdução",
+            "local": "topicos/introducao.html",
+            "audio": "audios/Abstract - I Do This (ft. Roze) Prod By Drumma Battalion.mp3",
+            "default": true
+        },
+        {
+            "nome": "Objetivos",
+            "local": "topicos/objetivos.html",
+            "audio": "audios/Abstract - I Do This (ft. Roze) Prod By Drumma Battalion.mp3",
+            "default": true
+        }
+        
+    ],
+    "pdf": "pdf/impresso.pdf",
+    "audio": "audios/Abstract - Scars (ft. RoZe) (Prod. Drumma Battalion).mp3",
+    "tema":{
+      "primario": "blue-700",
+      "contraste": "pink"
+    },
+    "imported_styles":[
+        "custom.css"
+    ]
+}
