@@ -1,5 +1,5 @@
 {
-    "nome": "Qual é o seu pedido? - Língua Portuguesa",
+    "nome": "De olho na lista - Língua Portuguesa",
     "academico":{
         "curso": "GUIA DE ORIENTAÇÕES DIDÁTICAS",
         "cursoIcone": "layout/icones/.svg",
@@ -22,6 +22,30 @@
         {
             "nome": "Objetivos",
             "local": "topicos/objetivos.html",
+            "audio": "audios/Abstract - I Do This (ft. Roze) Prod By Drumma Battalion.mp3",
+            "default": true
+        },
+        {
+            "nome": "Descrição do RED",
+            "local": "topicos/descricao.html",
+            "audio": "audios/Abstract - I Do This (ft. Roze) Prod By Drumma Battalion.mp3",
+            "default": true
+        },
+        {
+            "nome": "Atividades com o RED",
+            "local": "topicos/atividades.html",
+            "audio": "audios/Abstract - I Do This (ft. Roze) Prod By Drumma Battalion.mp3",
+            "default": true
+        },
+        {
+            "nome": "Atividades anteriores",
+            "local": "topicos/atividades-anteriores.html",
+            "audio": "audios/Abstract - I Do This (ft. Roze) Prod By Drumma Battalion.mp3",
+            "default": true
+        },
+        {
+            "nome": "Materiais Complementares",
+            "local": "topicos/materiais-complementares.html",
             "audio": "audios/Abstract - I Do This (ft. Roze) Prod By Drumma Battalion.mp3",
             "default": true
         }
